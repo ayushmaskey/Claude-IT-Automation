@@ -1,10 +1,10 @@
-feature/<WBS-ID>-<short-description>
+feature/{{WBS-ID}}-{{short-description}}
 
-bugfix/<WBS-ID>-<short-description>
+bugfix/{{WBS-ID}}-{{short-description}}
 
-hotfix/<short-description>
+hotfix/{{short-description}}
 
-release/<version>
+release/{{version}}
 
 Examples:
 
