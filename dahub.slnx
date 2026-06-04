@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/dahub.api/dahub.api.csproj" />
+    <Project Path="src/dahub.core/dahub.core.csproj" />
+    <Project Path="src/dahub.infrastructure/dahub.infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/dahub.tests/dahub.tests.csproj" />
+  </Folder>
+</Solution>

@@ -1,0 +1,6 @@
+@dahub.api_HostAddress = http://localhost:5239
+
+GET {{dahub.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
